@@ -1,5 +1,5 @@
 """
-Project: 1
+Project: Functions
 Description: Sort a hyphen-separated sequence of colors alphabetically.
 
 Approach:
