@@ -1,1 +1,0 @@
-C:\Users\Lenovo\AppData\Local\Programs\Python\Python312\python.exe "c:/Users/Lenovo/Documents/GitHub/Wipro-TalentNext-Data-Science-in-Python/Milestone-1/IO-Operations/IO-Assignment/Read File Contents into a List/Read File Contents into a List.py"
