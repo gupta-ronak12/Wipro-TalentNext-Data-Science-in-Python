@@ -22,7 +22,7 @@ This repository is organized into two core tracks based on the training curricul
 - Statistics for Data Science
 - NumPy and Pandas
 - Data Preprocessing
-- Data Visualization with Matplotlib
+- Data Visualization with Matplotlib.
 
 ## 📌 Repository Contents
 
