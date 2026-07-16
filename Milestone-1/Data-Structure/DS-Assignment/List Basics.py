@@ -4,7 +4,7 @@ Creates a list containing 5 integers. Displays the entire list
 and accesses specific elements by their index.
 """
 
-numbers = [10, 20, 30, 40, 50]
+numbers = [10, 20, 30, 40]
 
 print("Full list:", numbers)
 
