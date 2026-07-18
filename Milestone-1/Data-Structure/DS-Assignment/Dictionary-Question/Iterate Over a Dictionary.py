@@ -4,7 +4,7 @@ Demonstrates three ways to iterate over a dictionary: accessing
 keys only, values only, and both simultaneously using the '.items()' method.
 """
 
-data = {'Name': 'Alice', 'Age': 25, 'City': 'New York'}
+data = {'Name': 'Alice', 'Age': 27, 'City': 'New York'}
 
 print("Keys:")
 for key in data:
