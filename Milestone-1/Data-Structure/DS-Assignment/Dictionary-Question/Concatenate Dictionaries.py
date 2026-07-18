@@ -4,7 +4,7 @@ Creates three separate dictionaries and merges them into a single
 new dictionary using the 'update()' method or dictionary unpacking.
 """
 
-dic1 = {1: 10, 2: 20}
+dic1 = {1: 10, 2: 15}
 dic2 = {3: 30, 4: 40}
 dic3 = {5: 50, 6: 60}
 
